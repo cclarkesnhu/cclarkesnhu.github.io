@@ -10,7 +10,7 @@ This is a final project for Mobile Architecture and Programming, 9 months ago. T
 
 My proposed enhancements for this artifact is to implement better input validation when user registers or modify the inventory. Role-based permissions for different user types. Improve error handling. Add automated texts for application functionality. And possibly a Separate application for database operations for easier use. Possibly from a website. These would help me reach better the professional standards for Software Design and Engineering, as well as Algorithms and Data structures. While Databases are used for it, it isn't necessarily the main focus of the application.
 
-#Artifact Two CS340
+# Artifact Two CS340
 
 This is the final project for Advanced Programming Concepts. Roughly two years ago, I helped modify a website. There is a rescue animal database that includes various information including location, age, breed, and more various different factors. 
 
